@@ -60,4 +60,14 @@
     </task>
     <servers />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="579" y="170" key="FileChooserDialogImpl" timestamp="1583580101465">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="170" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583580101465" />
+    <state x="182" y="49" key="new project wizard" timestamp="1583580104211">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="49" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1583580104211" />
+  </component>
 </project>
